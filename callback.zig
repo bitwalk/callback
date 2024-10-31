@@ -1,3 +1,12 @@
+//------------------------------------------------------------------------------
+// Copyright (c) 2024 Andreas Thorsén
+//
+// This code is released into the public domain.
+// You can redistribute it and/or modify it without any restrictions.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+// EXPRESS OR IMPLIED.
+//------------------------------------------------------------------------------
 const std = @import("std");
 
 const CPU = struct {
